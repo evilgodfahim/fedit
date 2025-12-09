@@ -1,7 +1,51 @@
+<?xml version="1.0" ?>
 <rss version="2.0">
   <channel>
-    <title>Editorial Feed</title>
+    <title>Filtered Editorial Feed</title>
     <link>https://example.com</link>
-    <description>Auto-filtered Editorials</description>
+    <description>Auto-filtered Editorial + Views Feed</description>
+    <lastBuildDate>2025-12-09T09:19:16.899453+00:00</lastBuildDate>
+    <item>
+      <title>Payment Initiation Services: the future  of payments in Bangladesh</title>
+      <link>https://today.thefinancialexpress.com.bd/views-reviews/payment-initiation-services-the-future-of-payments-in-bangladesh-1765206987</link>
+      <pubDate>2025-12-09T09:19:16.899400+00:00</pubDate>
+      <description>The global financial system is undergoing a major transformation due...</description>
+    </item>
+    <item>
+      <title>E-commerce breakthrough</title>
+      <link>https://today.thefinancialexpress.com.bd/editorial/e-commerce-breakthrough-1765206721</link>
+      <pubDate>2025-12-09T09:19:16.899394+00:00</pubDate>
+      <description>The central bank has opened a new chapter in the...</description>
+    </item>
+    <item>
+      <title>Secure women's right to land ownership</title>
+      <link>https://today.thefinancialexpress.com.bd/editorial/secure-womens-right-to-land-ownership-1765206695</link>
+      <pubDate>2025-12-09T09:19:16.899388+00:00</pubDate>
+      <description>Women today contribute equally to the nation's economy. Yet, they...</description>
+    </item>
+    <item>
+      <title>Guardians take charge at school exam</title>
+      <link>https://today.thefinancialexpress.com.bd/editorial/guardians-take-charge-at-school-exam-1765206670</link>
+      <pubDate>2025-12-09T09:19:16.899383+00:00</pubDate>
+      <description>Guardians, not teachers, with the help of the head master...</description>
+    </item>
+    <item>
+      <title>Urgent action needed to stop food contamination</title>
+      <link>https://today.thefinancialexpress.com.bd/editorial/urgent-action-needed-to-stop-food-contamination-1765206627</link>
+      <pubDate>2025-12-09T09:19:16.899377+00:00</pubDate>
+      <description>The warning signs are unmistakable, and the consequences are no...</description>
+    </item>
+    <item>
+      <title>Streamlining the ICT project</title>
+      <link>https://today.thefinancialexpress.com.bd/editorial/streamlining-the-ict-project-1765206542</link>
+      <pubDate>2025-12-09T09:19:16.899370+00:00</pubDate>
+      <description>A select project titled &quot;Digital Service Transformation for Access and...</description>
+    </item>
+    <item>
+      <title>Finding cure to jobless growth</title>
+      <link>https://today.thefinancialexpress.com.bd/views-opinion/finding-cure-to-jobless-growth-1765206812</link>
+      <pubDate>2025-12-09T09:19:16.899348+00:00</pubDate>
+      <description>Bangladesh has entered a phase of development marked by jobless...</description>
+    </item>
   </channel>
 </rss>
