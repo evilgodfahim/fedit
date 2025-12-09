@@ -1,0 +1,7 @@
+<rss version="2.0">
+  <channel>
+    <title>Editorial Feed</title>
+    <link>https://example.com</link>
+    <description>Auto-filtered Editorials</description>
+  </channel>
+</rss>
