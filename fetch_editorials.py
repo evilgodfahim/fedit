@@ -5,8 +5,8 @@ from xml.dom import minidom
 from datetime import datetime, timezone
 
 FEEDS = [
-    "https://politepol.com/fd/BaUjoEn6s1Rx.xml",
-    "https://politepol.com/fd/cjcFELwr80sj.xml"
+    "https://politepaul.com/fd/BaUjoEn6s1Rx.xml",
+    "https://politepaul.com/fd/cjcFELwr80sj.xml"
 ]
 
 OUTPUT = "feed.xml"
